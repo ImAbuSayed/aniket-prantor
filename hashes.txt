@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Aniket Prantor
+
+This log tracks the cryptographic history and versioning for the song **Aniket Prantor** (aniket-prantor).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-29T02:08:33.103381 | `v1` | `aa231424039d6e5c5d9793de0bfc9dde20ea26e3e9cc0687aea9f21174c312b2` | `c0802b7d1f3f6698e0fb6945155341eaaa1aba556155ada57b3f054e7f430e3b` | `2026-05-29_aniket-prantor-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
