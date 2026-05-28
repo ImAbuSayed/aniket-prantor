@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/aniket-prantor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Aniket Prantor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aniket-prantor/) |
+| **Get License** | [Request Licensing for Aniket Prantor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aniket-prantor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অচেনা এই মায়াবী রাতে এসো না আরও কাছে,
+> তোমার ঐ গভীর চোখে আমার হৃদয় নাচে।
+> উষ্ণ এই অনুভবে হারিয়ে ফেলি দিশা,
+> তোমায় ছুঁয়ে মিটাতে চাই আমার প্রেমের তৃষা।
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
